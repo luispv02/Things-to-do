@@ -1,0 +1,30 @@
+.titulo{
+    font-size: 18px;
+}
+
+
+.lista li{
+    display:inline;
+    position: relative;
+}
+
+.lista li span{
+    margin-left: 30px;
+}
+
+ul{
+    padding: 0;
+}
+
+.divBtn button{
+    padding: 0px 10px;
+    margin: 0 4px;
+}
+
+.divBtn input{
+    position: absolute;
+    left: 0;
+
+}
+
+
